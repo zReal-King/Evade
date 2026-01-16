@@ -71,6 +71,11 @@ Settings:
 ## Preview:
 ![image](https://github.com/user-attachments/assets/1097dc49-3fcc-4f50-bffe-e3395d3df128)
 
+## Script Loadstring:
+```lua
+pcall(loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Evade/main/Main.lua')))
+```
+
 ### Contact us:
 
 * Report Bugs here: https://discord.gg/f5PbMjMbaj
