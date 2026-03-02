@@ -84,14 +84,14 @@ pcall(loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Evad
 Evade script, Roblox Evade script, Evade GUI, free Evade script, best Evade script, Evade exploit, Evade auto farm, Evade ESP, Evade silent aim, Evade fly script, Evade hack Roblox
 
 ### Credits:
-zReal-King (zreal_king) - @Main Developer
+Real King (zreal_king) | @Main Developer
 
-Cesare - @Main Developer
+Cesare | @Main Developer
 
-madonchik123 - @Helper
+madonchik123 | @Helper
 
-rang - @Helper
+rang | @Helper
 
-blood of batus - @Contributor
+blood of batus | @Contributor
 
 Thanks,
