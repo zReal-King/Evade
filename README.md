@@ -81,7 +81,7 @@ pcall(loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Evad
 * Report Bugs here: https://discord.gg/f5PbMjMbaj
 
 ### key words:
-Evade script, Roblox Evade script, Evade GUI, free Evade script, best Evade script, Evade exploit, Evade auto farm, Evade ESP, Evade silent aim, Evade fly script, Evade hack Roblox
+Evade script, Roblox Evade script, Evade GUI, free Evade script, best Evade script, Evade, Evade auto farm, Evade ESP, Evade silent aim, Evade fly script, Evade Roblox
 
 ### Credits:
 Real King (zreal_king) | @Main Developer
